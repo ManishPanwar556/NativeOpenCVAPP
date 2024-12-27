@@ -18,7 +18,5 @@
 5. Save the changes.
 Here is a screen recording of the project setup:
 
-<video width="560" height="315" controls>
-  <source src="https://drive.google.com/uc?export=download&id=1qS1drlIQv-uQlH7hu30Ltij7pzvwo2X_" type="video/mp4">
-  Your browser does not support the video tag.
-</video>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/Rv95s8eQ5K8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
