@@ -18,5 +18,6 @@
 5. Save the changes.
 Here is a screen recording of the project setup:
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/Rv95s8eQ5K8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+[![Watch the video](https://img.youtube.com/vi/Rv95s8eQ5K8/maxresdefault.jpg)](https://www.youtube.com/watch?v=Rv95s8eQ5K8)
+
 
