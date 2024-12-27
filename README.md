@@ -19,6 +19,6 @@
 Here is a screen recording of the project setup:
 
 <video width="560" height="315" controls>
-  <source src="https://drive.google.com/file/d/11Rwr0a4euSOejr4zyCg3pipYZeiWtSz8/view?usp=sharing" type="video/mp4">
+  <source src="https://drive.google.com/uc?export=download&id=1qS1drlIQv-uQlH7hu30Ltij7pzvwo2X_" type="video/mp4">
   Your browser does not support the video tag.
 </video>
