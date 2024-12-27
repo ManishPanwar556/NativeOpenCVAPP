@@ -17,4 +17,5 @@
 
 5. Save the changes.
 
-[Watch the screen recording](https://drive.google.com/file/d/11Rwr0a4euSOejr4zyCg3pipYZeiWtSz8/view?usp=sharing)
+<iframe width="560" height="315" src="https://drive.google.com/file/d/11Rwr0a4euSOejr4zyCg3pipYZeiWtSz8/view?usp=sharing" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
