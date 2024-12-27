@@ -16,6 +16,9 @@
     ```
 
 5. Save the changes.
+Here is a screen recording of the project setup:
 
-<iframe width="560" height="315" src="https://drive.google.com/file/d/11Rwr0a4euSOejr4zyCg3pipYZeiWtSz8/view?usp=sharing" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-
+<video width="560" height="315" controls>
+  <source src="https://drive.google.com/file/d/11Rwr0a4euSOejr4zyCg3pipYZeiWtSz8/view?usp=sharing" type="video/mp4">
+  Your browser does not support the video tag.
+</video>
