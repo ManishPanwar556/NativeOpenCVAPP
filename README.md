@@ -12,7 +12,7 @@
 
     For example:
     ```cmake
-    set(ROOT_DIR "/path/to/your/project")
+    set(ROOT_DIR /path/to/your/project)
     ```
 
 5. Save the changes.
