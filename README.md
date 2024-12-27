@@ -17,7 +17,4 @@
 
 5. Save the changes.
 
-Once this step is completed, your project is set up and ready to be built.
-
----
-Feel free to reach out if you face any issues during the setup process!
+[Watch the screen recording](https://drive.google.com/file/d/11Rwr0a4euSOejr4zyCg3pipYZeiWtSz8/view?usp=sharing)
