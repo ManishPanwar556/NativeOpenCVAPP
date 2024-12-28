@@ -28,15 +28,8 @@ add_library(${CMAKE_PROJECT_NAME} SHARED
         # List C/C++ source files with relative paths to this CMakeLists.txt.
         native-lib.cpp)
 
-# Manually set the root directory path
-# replace this directory with user system path
-set(ROOT_DIR /Users/manishpanwar/AndroidStudioProjects/NativeApp)
-
-# Print the root directory for debugging
-message(STATUS "ROOT_DIR is: ${ROOT_DIR}")
-
 # Set OpenCV directory relative to the root
-set(OpenCV_DIR ${ROOT_DIR}/opencv/sdk/native/jni)
+set(OpenCV_DIR ${CMAKE_CURRENT_LIST_DIR}/../../../../opencv/sdk/native/jni)
 
 # Find OpenCV package
 find_package(OpenCV REQUIRED)
